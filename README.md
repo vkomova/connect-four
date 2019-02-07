@@ -1,6 +1,6 @@
 # Game: Connect Four
 by Valerie Komova for General Assembly Project 1  
-Click [here](www.valeriekomova.com) to play!
+Click [here](http://www.valeriekomova.com/) to play!
 
 
 ## Description
