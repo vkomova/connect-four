@@ -1,11 +1,11 @@
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
-█░░║║║╠─║─║─║║║║║╠─░░█
-█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█   
+█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█   
+█░░║║║╠─║─║─║║║║║╠─░░█    
+█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█  
+█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█  
 
 
-// Game: Connect Four //
+# Game: Connect Four
 // by Valerie Komova for General Assembly Project 1 //
 
 
@@ -24,7 +24,7 @@ But the game has certainly been around for much longer than that. In a book by R
 
 
 // Screenshot //
-https://i.imgur.com/4pmXK8R.png
+![Connect Four Screenshot](https://i.imgur.com/4pmXK8R.png "Connect Four Screenshot")
 
 
 // Technologies Used //
