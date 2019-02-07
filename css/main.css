@@ -1,0 +1,66 @@
+main {
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+#gameboard {
+    display: grid;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    grid-template-columns: repeat(7, 75px);
+    grid-template-rows: repeat(6, 75px);
+    background-color: #1E90FF;
+    justify-items: center;
+    align-items: center;
+    border: 11px solid #1E90FF;
+  }
+
+h1 {
+    color: #197ddf;
+    font-family: 'Major Mono Display', monospace;
+    text-decoration: overline;
+    text-shadow: 3px 2px #F9F653;
+    margin-bottom: 0px;
+
+}
+
+.grid-item {
+    height: 75px;
+    width: 75px;
+    border: 5px solid #1E90FF;
+    border-radius: 50%;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    background-color: white;
+}
+
+ul {
+    list-style-type: none;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    color: #BE3038;
+    font-weight: 700;
+}
+
+li {
+    display: inline-grid;
+    align-self: stretch;
+    justify-self: stretch;
+    grid-column-gap: 75px;
+}
+
+#button {
+    font-family: 'Quicksand', sans-serif;
+    width: 200px;
+    height: 100px
+    padding: 20px 0;
+    margin-top: 50px;
+    background-color: white;
+    color: #1E90FF;
+    border: 4px solid #F9F653;
+    border-radius: 33px;
+    font-size: 26px;
+    outline: none;
+}
