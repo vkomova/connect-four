@@ -4,7 +4,7 @@ Click [here](http://www.valeriekomova.com/) to play!
 
 
 ## Description
-Connect Four (also known as Captain's Mistress, Four Up, Plot Four, Find Four, Four in a Row, Four in a Line, Drop Four, and Gravitrips (in Soviet Union)) is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
+Connect Four (also known as Captain's Mistress, Four Up, Plot Four, Find Four, Four in a Row, Four in a Line, Drop Four, and Gravitrips (in Soviet Union)) is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.  
 
 
 ## Origins
@@ -14,26 +14,26 @@ The earliest claimed ancestry is a legend surrounding early explorer Captain Coo
 
 More certain is that Milton Bradley (now Hasbro) started selling their massively successful version of the game called Connect 4 in February 1974 (1976 in Britain).
 
-But the game has certainly been around for much longer than that. In a book by Robbie Bell, there is a picture of a 4 in a row game that he calls "Four Balls". It is a wooden game made to exactly the same design as the Northwest Corner game earlier mentioned - the implication being that Northwest corner copied an earlier version. This is a higher quality example though being made from Mahogany with beech balls for pieces. Bell says that the date of the game is uncertain but he estimates that it is Edwardian c. 1901 - 1910. On the bottom of the game in gold lettering is inscribed "Remy Martin Cognac".
+But the game has certainly been around for much longer than that. In a book by Robbie Bell, there is a picture of a 4 in a row game that he calls "Four Balls". It is a wooden game made to exactly the same design as the Northwest Corner game earlier mentioned - the implication being that Northwest corner copied an earlier version. This is a higher quality example though being made from Mahogany with beech balls for pieces. Bell says that the date of the game is uncertain but he estimates that it is Edwardian c. 1901 - 1910. On the bottom of the game in gold lettering is inscribed "Remy Martin Cognac".  
 
 
 ## Screenshot
-![Connect Four Screenshot](https://i.imgur.com/4pmXK8R.png "Connect Four Screenshot")
+![Connect Four Screenshot](https://i.imgur.com/4pmXK8R.png "Connect Four Screenshot")  
 
 
 ## Technologies Used
-⋅⋅* HTML
-⋅⋅* CSS (with Grid)
-⋅⋅* JavaScript;
+* HTML
+* CSS (with Grid)
+* JavaScript;  
 
 
 ## Getting Started
-Please visit www.valeriekomova.com to play the game!
-Please see description section for instructions on how to play.
+Please visit www.valeriekomova.com to play the game!  
+Please see description section for instructions on how to play.  
 
 
 ## Next Steps
-For next steps, I would like to optimize the game for mobile viewing as well as add more animations.
-https://git.generalassemb.ly/vkomova/connect-four
+For next steps, I would like to optimize the game for mobile viewing as well as add more animations.  
+https://github.com/vkomova/connect-four
 
 
