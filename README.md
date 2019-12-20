@@ -1,6 +1,6 @@
 # Game: Connect Four
 by Valerie Komova for General Assembly Project 1  
-Click [here](http://www.valeriekomova.com/) to play!
+Click [here](https://vkomova.github.io/connect-four/) to play!
 
 
 
@@ -30,7 +30,7 @@ But the game has certainly been around for much longer than that. In a book by R
 
 
 ## Getting Started
-Please visit www.valeriekomova.com to play the game!  
+Please visit https://vkomova.github.io/connect-four/ to play the game!  
 Please see description section for instructions on how to play.  
 
 
